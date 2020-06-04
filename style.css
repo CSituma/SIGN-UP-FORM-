@@ -1,0 +1,55 @@
+body {
+
+    height:100vh;
+    width:100wh;
+    background:url("./house\ design.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.container{
+    max-width:400px;
+    min-width: 30px;
+    color:chocolate;
+    background:rgba(2, 2, 2, 0.534);
+    border-radius: 20px;
+    margin: auto;
+    box-sizing:border-box;
+    padding: 40px;
+    margin-top: 100px;
+}
+h2{
+    text-align: center;
+}
+#FirstName,#LastName,#Username,#Password {
+ width: 100%;
+box-sizing: border-box;
+background:rgba(2, 2, 2, 0.102); 
+color:wheat;
+padding: 20px;
+margin:5px;
+border: none;
+border-bottom:1px dotted;
+font-weight:bold;
+}
+
+#Submit{
+width:100%;
+box-sizing: border-box;
+padding:10px;
+margin:10px;
+border:none;
+opacity: 0.7;
+color:chocolate;
+text-transform: uppercase;
+font-weight: bold;
+background: wheat;
+border-radius: 20px;
+}
+
+#Submit:hover {
+    background-color:black;
+    opacity: 1;
+
+}
