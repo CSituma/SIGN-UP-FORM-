@@ -11,7 +11,7 @@ body {
 .container{
     max-width:400px;
     min-width: 30px;
-    color:chocolate;
+    color:goldenrod;
     background:rgba(2, 2, 2, 0.534);
     border-radius: 20px;
     margin: auto;
@@ -26,7 +26,7 @@ h2{
  width: 100%;
 box-sizing: border-box;
 background:rgba(2, 2, 2, 0.102); 
-color:wheat;
+color:white;
 padding: 20px;
 margin:5px;
 border: none;
@@ -41,10 +41,10 @@ padding:10px;
 margin:10px;
 border:none;
 opacity: 0.9;
-color:chocolate;
+color:goldenrod;
 text-transform: uppercase;
 font-weight: bold;
-background: wheat;
+background: white;
 border-radius: 20px;
 }
 
