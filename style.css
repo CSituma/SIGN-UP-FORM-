@@ -25,13 +25,14 @@ h2{
 #FirstName,#LastName,#Username,#Password {
  width: 100%;
 box-sizing: border-box;
-background:rgba(2, 2, 2, 0.102); 
+background:rgba(2, 2, 2, 0.602); 
 color:white;
 padding: 20px;
 margin:5px;
 border: none;
 border-bottom:1px dotted;
-font-weight:bold;
+font-weight:700;
+opacity: 0.9;
 }
 
 #Submit{
@@ -41,10 +42,10 @@ padding:10px;
 margin:10px;
 border:none;
 opacity: 0.9;
-color:goldenrod;
+color:white;
 text-transform: uppercase;
 font-weight: bold;
-background: white;
+background: goldenrod;
 border-radius: 20px;
 }
 
